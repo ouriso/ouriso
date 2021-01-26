@@ -9,3 +9,5 @@ I don't have many projects yet, but the biggest ones are:
 - **[test-assignment](https://github.com/ouriso/test-assignment)** - it's a simple API for users registration and administration. Stack: `Django REST Framework`, `unittest`  
 
 ⚡ Fun fact: The traslation of 'ouriço' from Portuguese means 'hedgehog`. This is my nickname in capoeira.
+
+![GitHub Logo](/Logo.png)
