@@ -10,4 +10,4 @@ I don't have many projects yet, but the biggest ones are:
 
 ⚡ Fun fact: The traslation of 'ouriço' from Portuguese means 'hedgehog`. This is my nickname in capoeira.
 
-![GitHub Logo](/Logo.png)
+![GitHub Logo](/Logo_cr.png)
